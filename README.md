@@ -23,9 +23,9 @@
 </p>
 
 <h2 >⭐️ My github stats</h2>
-<div style='display:flex; height:200px; gap:10px'>
+<div style='display:flex; gap:10px; height:200px;'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tim0124&theme=onedark' alt='github-stats' style='border: 1px solid white; height:100%;'>
 <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tim0124&theme=onedark' alt='github-stats' style='border: 1px solid white'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tim0124&theme=onedark' alt='github-stats' style='border: 1px solid white'>
 </div>
 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=Tim0124&theme=onedark' alt='github-stats' style='border: 1px solid white'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Tim0124&theme=onedark' alt='github-stats' style='border: 1px solid white;height:100%;'>
