@@ -1,15 +1,15 @@
 <h1 style='text-align:center'> 👋 Hi, I'm Tim Kao</h1>
 <h2>I am a graduate with a goal of becoming a front-end developer. I have studied at ALPHA Camp.</h2>
 
-- 🌐 Personal Website - Under Development
+- 🌐 Personal Website - **[Link](https://timkao-dev.netlify.app/)**
 - 📓 My blog on **[Medium](https://medium.com/@a0925172969)**
 - 📧 Contact information **a0926172969@gmail.com**
 
-<h2 >🖥︎Projects</h2>
+<h2 >🖥︎ Projects</h2>
 
 - **[Simple-twitter](https://tim0124.github.io/simple-twitter/)** Collaboration project of ALPHA camp **[Repo](https://github.com/Tim0124/simple-twitter)**
 
-<h2 >📚Things I Have Ever Learned </h2>
+<h2 >📚 Things I Have Ever Learned </h2>
 <p>
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
