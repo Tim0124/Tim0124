@@ -1,6 +1,6 @@
 <div style='text-align:center'> 
 
-  # 👋 Hi, I'm Tim Kao
+# 👋 Hi, I'm Tim Kao
 </div>
 
 ### My goal is to become an excellent front-end engineer.
