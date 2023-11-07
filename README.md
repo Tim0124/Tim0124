@@ -1,5 +1,9 @@
-<h1 style='text-align:center'> 👋 Hi, I'm Tim Kao</h1>
-<h4>My goal is to become an excellent front-end engineer.</h4>
+<div style='text-align:center'> 
+
+  # 👋 Hi, I'm Tim Kao
+</div>
+
+### My goal is to become an excellent front-end engineer.
 
 - 🌐 Personal Website - **[Link](https://timkao-dev.netlify.app/)**
 - 📓 My blog on **[Medium](https://medium.com/@a0925172969)**
