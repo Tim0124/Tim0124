@@ -1,35 +1,41 @@
-<div style='text-align:center'> 
+# Tim Kao
 
-# 👋 Hi, I'm Tim Kao
-</div>
+**Senior Frontend Engineer · Taipei, Taiwan**  
+Focused on **large-scale React architecture**, **design systems**, and **AI-augmented development workflows**.
 
-### My goal is to become an excellent front-end engineer.
+Currently at **GoBuid (吉寶科技)** — leading frontend architecture migration, design system rebuild, and internal AI tooling (MCP / Claude Code) to accelerate team productivity.
 
-- 🌐 Personal Website - **[Link](https://timkao-dev.netlify.app/)**
-- 📓 My blog on **[Medium](https://medium.com/@a0925172969)**
-- 📧 Contact information **a0926172969@gmail.com**
+📧 a0926172969@gmail.com · 🌐 [Portfolio](https://timkao-dev.netlify.app/) · ✍️ [Medium](https://medium.com/@a0925172969)
 
-<h3 >🖥︎ Projects</h3>
+---
 
-- **[Simple-twitter](https://tim0124.github.io/simple-twitter/)** Collaboration project of ALPHA camp **[Repo](https://github.com/Tim0124/simple-twitter)**
+## Core Stack
 
-<h3 >📚 Things I Have Ever Learned </h3>
-<p>
-<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-<img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
-<img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
-<img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'>
-<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
-<img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>
-</p>
+**Languages & Frameworks**  
+TypeScript · React · Next.js (App Router) · Vite · TanStack Router
 
-<h3 >⭐️ My github stats</h3>
-<div style='display:flex; gap:10px; height:200px;'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tim0124&theme=onedark' alt='github-stats' style='border: 1px solid white; height:100%;'>
-<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tim0124&theme=onedark' alt='github-stats' style='border: 1px solid white'>
-</div>
+**UI & Design System**  
+Shadcn/ui · Radix UI · Tailwind CSS · Storybook
 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=Tim0124&theme=onedark' alt='github-stats' style='border: 1px solid white;height:100%;'>
+**Testing & Quality**  
+Vitest · Playwright · K6 · Testing Library
+
+**Platform & Tooling**  
+Monorepo (Lerna) · GitLab CI/CD · Custom CLI
+
+**AI-augmented Development**  
+MCP Server · Claude Code · Custom Skills authoring · AI-driven testing workflow
+
+---
+
+## What I'm Currently Working On
+
+- **Component Library Migration** — Leading MUI → Shadcn/ui migration at GoBuid, covering 50+ components with Storybook documentation and comprehensive test coverage.
+- **AI Tooling for Internal Teams** — Designed and built an MCP Server that reduced Sales' form-building time by ~65% (10 min → 3–4 min per form).
+- **Frontend Architecture Decoupling** — Led the split of a Next.js monolith into two dedicated apps: a **marketing site** (Next.js, SEO-focused) and a **webapp** (Vite + TanStack Router, optimized for SPA DX).
+
+---
+
+## Let's Connect
+
+Open to conversations about **Senior Frontend**, **Platform Engineering**, **Developer Experience**, and **AI-native product development** opportunities.
