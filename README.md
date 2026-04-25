@@ -1,6 +1,6 @@
 # Tim Kao
 
-**Senior Frontend Engineer · Taipei, Taiwan**  
+**Frontend Engineer · Taipei, Taiwan**  
 Focused on **large-scale React architecture**, **design systems**, and **AI-augmented development workflows**.
 
 Currently at **GoBuid (吉寶科技)** — leading frontend architecture migration, design system rebuild, and internal AI tooling (MCP / Claude Code) to accelerate team productivity.
