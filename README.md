@@ -5,7 +5,7 @@ Focused on **large-scale React architecture**, **design systems**, and **AI-augm
 
 Currently at **GoBuid (吉寶科技)** — leading frontend architecture migration, design system rebuild, and internal AI tooling (MCP / Claude Code) to accelerate team productivity.
 
-📧 a0926172969@gmail.com · 🌐 [Portfolio](https://timkao-dev.netlify.app/) · ✍️ [Medium](https://medium.com/@a0925172969)
+📧 a0926172969@gmail.com · 🌐 [Portfolio](https://timkao.dev) · ✍️ [Medium](https://medium.com/@a0925172969)
 
 ---
 
